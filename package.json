@@ -1,0 +1,28 @@
+{
+  "name": "cordova-plugin-deviceadmin",
+  "version": "1.0.0",
+  "description": "Cordova plugin to create Cordova application with device admin role",
+  "cordova": {
+    "id": "cordova-plugin-deviceadmin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ddouble/cordova-plugin-deviceadmin.git"
+  },
+  "keywords": [
+    "cordova",
+    "android",
+    "kiosk",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Alan ddouble",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ddouble/cordova-plugin-deviceadmin/issues"
+  },
+  "homepage": "https://github.com/ddouble/cordova-plugin-deviceadmin"
+}
